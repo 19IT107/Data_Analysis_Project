@@ -16,7 +16,7 @@ Step 2: I found the relation among the attribute of the data and generated the d
 The dasboard dipicts the relation of sales with respect to gender , martial status , region , age and level of education
 
 
-FEW MEANINGFUL INSIGHTS:
+MEANINGFUL INSIGHTS:
 
 1. More than 75% of people who bought the bike was middle aged (18-35 years).
 
